@@ -1,0 +1,1 @@
+# ValidaEmailSimple PHP
